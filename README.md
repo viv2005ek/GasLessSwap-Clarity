@@ -1,4 +1,4 @@
-### Contract -> [ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap](https://explorer.hiro.so/contract-call/ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap?chain=testnet)
+### Contract -> ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap
 
 # Gasless Swap DEX
 
@@ -109,6 +109,6 @@ Users sign a message containing (nonce, amount-in, min-amount-out) and a relayer
 Deploy to Stacks mainnet or testnet using Clarinet or similar deployment tools. Ensure all token contracts implement the SIP-010 trait.
 
 Deployed Block: https://explorer.hiro.so/txid/0xc0c77409ed4a8bac66511d2af8f6cd05f5b788e5c174cf4d2506c60fe8ccecf4?chain=testnet
-Contract Address: [ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap](https://explorer.hiro.so/contract-call/ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap?chain=testnet)
+Contract Address: ST19K1EHHHDAXS6Z9SYP3006RFACGBEQSAS7NY4QF.GasLessSwap
 <img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/752642e9-5f74-4635-8331-080bb5e4314a" />
 
